@@ -1,4 +1,4 @@
-package dayone;
+package Day_1;
 
 public class CharDemo {
 	 public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class CharDemo {
 	 }
 
 }
+
