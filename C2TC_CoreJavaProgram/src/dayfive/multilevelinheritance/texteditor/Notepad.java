@@ -17,12 +17,6 @@ public class Notepad {
     }
     
     
-    /*
-     * returntype funcName()
-     * {
-     * 		//statement
-     * }
-     * 
-     * */
+
 }
 
